@@ -25,5 +25,4 @@ You can also click on the random button to display 10 random gifs based on your 
 #####  docker ps -a
 
 ## Gif Project Badges
-![GitHub all releases](https://img.shields.io/github/downloads/Rediet8abere/GIF/total?logo=GITHUB&style=flat-square)
-![Docker Build Status](https://img.shields.io/docker/build/Rediet8abere/GIF?logo=docker&style=for-the-badge)
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=flat-square&up_color=blue&up_message=online&url=https%3A%2F%2Fstatuspage.freshping.io%2F49299-Gify)
