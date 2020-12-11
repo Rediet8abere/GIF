@@ -12,6 +12,9 @@ You can also click on the random button to display 10 random gifs based on your 
 #### CapRover Deployment
 [Cap Gify!](https://gify-flask.dev.sendedoswags.me/)
 
+[FreshPing Gify!](https://statuspage.freshping.io/49299-Gify)
+
+
 ## Docker Set Up
 ### Build
 ##### docker build -t gify-flask-app .
