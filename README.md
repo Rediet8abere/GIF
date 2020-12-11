@@ -8,6 +8,10 @@ can type in words and get top 10 gifs based on the query.
 You can also click on the random button to display 10 random gifs based on your search term.
 
 
+
+#### CapRover Deployment
+[Cap Gify!](https://gify-flask.dev.sendedoswags.me/)
+
 ## Docker Set Up
 ### Build
 ##### docker build -t gify-flask-app .
