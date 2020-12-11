@@ -34,3 +34,5 @@ You can also click on the random button to display 10 random gifs based on your 
 
 ## Gif Project Badges
 ![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=flat-square&up_color=blue&up_message=online&url=https%3A%2F%2Fstatuspage.freshping.io%2F49299-Gify)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/red8abere/gify-flask-app)
+![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/red8abere/gify-flask-app)
